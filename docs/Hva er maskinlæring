@@ -1,0 +1,86 @@
+
+
+# Del 1
+
+### Hva er det?
+
+La meg ta et eksempel: 
+
+Lasagn
+
+Jeg ønker en maskin som utvikler smakløker 
+
+Når jeg står i kantinen og skal velge mellom salat eller en varmrett, går jeg for det jeg har lyst på. Det er ingen bevisst logisk prosess bakenfor som styrer valget; det er basert på erfaring fra mat jeg har spist tidligere, samt en god porsjon magefølelse. Maskinlæring handler om å presentere datamaskinen for ulike typer mat, og la den ut fra dette generalisere sine egne matpreferanser.
+
+
+Hva bringer dette til bordet? 
+- Vi slipper å gjøre detaljerte antagelser. 
+- Kunne finne sammenhenger vi ikke var klar over. gir innsikt og fremtidsverdi
+
+
+
+### Hvvile problem kan det løse?
+
+black box: deler opp i 
+
+Deler inn i tre: 
+unsupervised (du har ikke en fasit)
+supervides (du har en fasit)
+reinforcement (robot) - flippe pannekaker
+
+vi er i suoervised (noe unsupervised)
+
+som vi igjen deler i regresjon og klassifisering. 
+
+det høres ganske rett frem ut
+
+regresjon -> når du predikerer A gitt input. 
+
+F.eks.: 
+og dere kan bruke det til: 
+
+Klassifiering: å gjenkjenne noe
+f.eks.: 
+dere kan bruke til: 
+
+
+
+
+### Hva er utfordringene  Noen ting vi må passe på
+
+
+- hvis datasettet er tilfeldig sammenheng  - et innlysende eksempel: rare sammenhenger 
+
+-> han blir _for_ god til å trene på lasagn og laks, at han ikke klarer å overføre det til det generelle 
+kalles overtrenging. kan æløses ved 
+
+
+-> hvis datasettet har utfordringer: langt flere rettet som frister mer enn salat. vil tro at alt er bedre enn salat. da må du lære raskere av de som er dårligere enn salat
+
+
+- modellen blir aldri bedre enn datasettet
+hvis det ikke er noen sammenheng
+
+
+
+
+
+# Demo
+
+### språk
+
+### risiko
+
+
+
+
+
+
+
+
+Manus i språk: 
+
+
+
+Manus i demo: 
+
